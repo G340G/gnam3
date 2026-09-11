@@ -1,4 +1,4 @@
-# gnam — Food Operating System v6.2
+# gnam Food Operating System v6.2
 
 Static web app for GitHub Pages. No backend or build step is required.
 
